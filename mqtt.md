@@ -28,6 +28,7 @@
 
   
 
+- Create a new user to use the mqqt broker , check local address login!
 - Go to **Settings > Devices & Services ** , Select the **MQTT INTEGRATION** , Select  **Configure** , Then **RE-configure MQTT**.
 
   
